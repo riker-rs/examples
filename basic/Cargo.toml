@@ -1,0 +1,13 @@
+[package]
+name = "basic"
+version = "0.1.0"
+authors = ["Lee Smith <leenozara@gmail.com>"]
+description = "A simple example application"
+homepage = "http://riker.rs"
+license = "MIT"
+readme = "README.md"
+
+[dependencies]
+riker = "0.1.0"
+riker-default = "0.1.0"
+log = { version = "0.4", features = ["std"] }
