@@ -1,6 +1,6 @@
 [package]
 name = "basic"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Lee Smith <leenozara@gmail.com>"]
 description = "A simple example application"
 homepage = "http://riker.rs"
@@ -8,6 +8,6 @@ license = "MIT"
 readme = "README.md"
 
 [dependencies]
-riker = "0.1.0"
-riker-default = "0.1.0"
+riker = "0.1.1"
+riker-default = "0.1.1"
 log = { version = "0.4", features = ["std"] }
